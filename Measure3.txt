@@ -1,0 +1,1 @@
+Time taken by function <Karatsuba> is : 0.009351 sec
